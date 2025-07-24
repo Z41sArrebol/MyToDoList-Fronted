@@ -1,4 +1,4 @@
-# MyToDpList-Fronted
+# MyToDoList-Fronted
 ## 项目概述
 这是一个基于 Vue 实现的本地待办事项（TodoList）应用。用户可以添加、删除、修改任务，并通过 `localStorage` 实现数据持久化存储。界面简洁直观，支持任务状态切换、清空任务等功能。
 ## 功能列表
