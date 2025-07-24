@@ -20,5 +20,5 @@
 
 ## 快速开始
 
-npm install
-npm run serve
+- npm install
+- npm run serve
